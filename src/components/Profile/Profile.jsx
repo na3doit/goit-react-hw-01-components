@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 export const Profile = ({ username, tag, location, avatar, stats }) => {
   return (
     <div className="profile">
