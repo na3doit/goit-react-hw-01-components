@@ -1,6 +1,6 @@
 import { StatisticItem } from './StatisticsItem/StatisticsItem';
 import PropTypes from 'prop-types';
-import css from './Statistics.css';
+import './Statistics.css';
 
 export const Statistics = ({ title, stats }) => {
   return (

@@ -1,4 +1,4 @@
-import css from './StatisticsItem.css';
+import './StatisticsItem.css';
 import { getRandomColor } from 'utils/getRandomColor';
 import PropTypes from 'prop-types';
 
